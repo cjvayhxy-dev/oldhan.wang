@@ -10,7 +10,7 @@ export function Footer() {
         </p>
         <div className="flex justify-center gap-6 text-text-muted">
           <a
-            href="https://www.xiaohongshu.com/user/profile/67e7d670000000000303271b"
+            href="https://xhslink.com/m/6S0rSpqfy0S"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-tertiary transition-colors text-sm"
@@ -18,7 +18,7 @@ export function Footer() {
             小红书
           </a>
           <a
-            href="https://github.com/bigmouth-han"
+            href="https://github.com/cjvayhxy-dev"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-text-main transition-colors text-sm"
@@ -26,7 +26,7 @@ export function Footer() {
             GitHub
           </a>
           <a
-            href="mailto:hi@oldhan.wang"
+            href="mailto:coinwanggg@gmail.com"
             className="hover:text-secondary transition-colors text-sm"
           >
             Email

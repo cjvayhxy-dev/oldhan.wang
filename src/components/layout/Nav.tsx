@@ -53,7 +53,7 @@ export function Nav() {
             );
           })}
           <a
-            href="https://github.com/bigmouth-han"
+            href="https://github.com/cjvayhxy-dev"
             target="_blank"
             rel="noopener noreferrer"
             className="ml-2 px-3 py-2 text-text-muted hover:text-text-main transition-colors font-mono text-sm"
